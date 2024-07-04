@@ -1,1 +1,1 @@
-# Titanic-Classification_codealpha_tasks
+This repository contains code for predicting survival on the Titanic using machine learning techniques. The dataset used is derived from the famous Titanic dataset, which provides information about passengers and their survival outcomes.
